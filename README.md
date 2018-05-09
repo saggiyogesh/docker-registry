@@ -10,4 +10,7 @@ Update passwords file with your own credentials
   
 ## Starting the registry
  `docker-compose up -d --build` 
+ 
+## Registry UI options
+  https://github.com/kwk/docker-registry-frontend/
 
